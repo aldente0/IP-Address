@@ -1,0 +1,1 @@
+export {validateIpRequest} from './validate-ip-request';
